@@ -4,5 +4,7 @@
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
-    <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
+    <asp:Button ID="Button2" runat="server" Text="Button" />
+    <asp:Button ID="Button1" runat="server" Text="Cristhiam" 
+        onclick="Button1_Click" />
 </asp:Content>

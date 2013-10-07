@@ -47,24 +47,7 @@ namespace Importar
                 _Rows++;
 
             }
-          /*  dt.Columns.Add("A");
-            dt.Columns.Add("B");
-            dt.Columns.Add("C");
-            dt.Columns.Add("D");
-            dt.Columns.Add("E");
-            dt.Columns.Add("F");
-            dt.Columns.Add("G");
-            dt.Columns.Add("H");
-            dt.Columns.Add("I");
-            dt.Columns.Add("J");
-            dt.Columns.Add("K");
-            dt.Columns.Add("L");
-            dt.Columns.Add("M");
-            dt.Columns.Add("N");
-            dt.Columns.Add("O");
-            dt.Columns.Add("P");
-            dt.Columns.Add("Q");
-            dt.Columns.Add("R");*/
+
 
             DataRow row;
             
